@@ -1,0 +1,6 @@
+{
+  "name": "Chat Friction Tagger",
+  "description": "Identify sales blockers and draft policy-safe replies for conversational commerce chats.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
